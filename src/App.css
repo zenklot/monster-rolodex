@@ -13,12 +13,3 @@ body {
   );
   text-align: center;
 }
-
-
-.monster-title{
-  margin-top: 70px;
-  margin-bottom: 50px;
-  font-size: 70px;
-  font-family: 'Eater', cursive;
-  color: rgba(24, 178, 128, 1);
-}
